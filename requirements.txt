@@ -6,7 +6,7 @@ openai==1.93.0
 pandas==2.2.2
 pillow==10.4.0
 torch==2.4.1
-transformers==4.44.2
+transformers==4.53.0
 PyYAML==6.0.1
 ansi2html==1.9.2
 sentence_transformers==5.1.0
